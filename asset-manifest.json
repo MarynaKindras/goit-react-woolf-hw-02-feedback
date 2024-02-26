@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarynaKindras/goit-react-woolf-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/MarynaKindras/goit-react-woolf-hw-02-feedback/static/js/main.07d3183d.js",
+    "index.html": "/MarynaKindras/goit-react-woolf-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/MarynaKindras/goit-react-woolf-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/MarynaKindras/goit-react-woolf-hw-02-feedback/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
